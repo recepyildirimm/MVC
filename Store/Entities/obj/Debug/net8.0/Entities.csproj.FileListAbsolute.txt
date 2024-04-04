@@ -1,0 +1,11 @@
+D:\Ders\Udemy\MVC\Store\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\Ders\Udemy\MVC\Store\Entities\bin\Debug\net8.0\Entities.dll
+D:\Ders\Udemy\MVC\Store\Entities\bin\Debug\net8.0\Entities.pdb
+D:\Ders\Udemy\MVC\Store\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\Udemy\MVC\Store\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\Ders\Udemy\MVC\Store\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\Ders\Udemy\MVC\Store\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\Ders\Udemy\MVC\Store\Entities\obj\Debug\net8.0\Entities.dll
+D:\Ders\Udemy\MVC\Store\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\Ders\Udemy\MVC\Store\Entities\obj\Debug\net8.0\Entities.pdb
+D:\Ders\Udemy\MVC\Store\Entities\obj\Debug\net8.0\ref\Entities.dll

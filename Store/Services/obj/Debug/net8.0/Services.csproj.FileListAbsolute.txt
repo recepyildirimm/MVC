@@ -1,0 +1,17 @@
+D:\Ders\Udemy\MVC\Store\Services\bin\Debug\net8.0\Services.deps.json
+D:\Ders\Udemy\MVC\Store\Services\bin\Debug\net8.0\Services.dll
+D:\Ders\Udemy\MVC\Store\Services\bin\Debug\net8.0\Services.pdb
+D:\Ders\Udemy\MVC\Store\Services\bin\Debug\net8.0\Entities.dll
+D:\Ders\Udemy\MVC\Store\Services\bin\Debug\net8.0\Repositories.dll
+D:\Ders\Udemy\MVC\Store\Services\bin\Debug\net8.0\Entities.pdb
+D:\Ders\Udemy\MVC\Store\Services\bin\Debug\net8.0\Repositories.pdb
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\Services.dll
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\Services.pdb
+D:\Ders\Udemy\MVC\Store\Services\obj\Debug\net8.0\ref\Services.dll
